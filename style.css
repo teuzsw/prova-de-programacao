@@ -1,0 +1,8 @@
+.img-container {
+    text-align: center;
+    display: block;
+  }
+
+  .element {
+    object-fit: fill || contain || cover || none || scale-down;
+  }
